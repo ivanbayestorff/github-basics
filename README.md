@@ -3,6 +3,6 @@
 ### Three
 #### Four
 
-[this is a path](new-feature.txt)
-![this is a path](./new-feature.txt)
+[this is a path](./forked/new-feature.txt)
+![this is a path](./forked/new-feature.txt)
 **Important**:
